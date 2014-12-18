@@ -1,0 +1,9 @@
+[
+    {
+        "doubleclickEnabled":"true",
+        "doubleclickDartSite":"android_test_app",
+        "doubleclickKeyValues":"test=klim_test",
+        "doubleclickUseExternalBrowser":"true",
+        "doubleClickStaticAdIsCoppaCompliant":"true"
+    }
+];
