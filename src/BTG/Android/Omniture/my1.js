@@ -4,7 +4,7 @@
 		"audienceManagerEnabled" : "true",
 		"omnitureEnabled" : "true",
 		"omnitureSuite"   : "viarnd",
-		"omnitureChannel" : "NULL",
+		"omnitureChannel" : "lovalova",
 		"omnitureCharSet" : "ISO-8859-1",
 		"omnitureCurrencyCode" : "USD",
 		"omnitureSSL" : "false",
