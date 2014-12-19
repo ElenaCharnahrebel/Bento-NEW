@@ -6,7 +6,7 @@
 		"omnitureChannel" : "TestChannellala",
 		"omnitureCharSet" : "ISO-8859-1",
 		"omnitureCurrencyCode" : "USDlala",
-		"omnitureSSL" : "false",
+		"omnitureSSL" : "true",
 		"omnitureLifecycleSessionTimeout" : "300",
 		"omnitureTrackingServer" : "sclala.mtv.com",
 		"omnitureVisitorID" : "2lala",
