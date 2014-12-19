@@ -2,7 +2,7 @@
 	{
 		"audienceManagerEnabled" : "true",
 		"omnitureEnabled" : "true",
-		"omnitureSuite"   : "null",
+		"omnitureSuite"   : "NULL",
 		"omnitureChannel" : "TestChannellala",
 		"omnitureCharSet" : "ISO-8859-1",
 		"omnitureCurrencyCode" : "USDlala",
