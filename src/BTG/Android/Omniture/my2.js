@@ -1,8 +1,7 @@
 [
     {
         "pageName" : "testestppp",
-        "linkName" : "dev/bento/link",
-		"channel" : "testchannel",
+        "linkName" : "zzzzzzzzzzzzzz",
         "prop1"    : "value of prop 1",
         "eVar1"    : "value of evar 1",
         "eVar32"    : "",
