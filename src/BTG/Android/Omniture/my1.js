@@ -16,6 +16,7 @@
 		"omnitureOfflineHitLimit" : 1000,
 		"demdexEnabled" : "true",
 		"TVEEnabled" : "true",
+		"omniturePageName" : "pagetest",
 		"omnitureContextData" : {
 			"v.appContext1":"test1",
 			"v.appContext2":"test2", 
