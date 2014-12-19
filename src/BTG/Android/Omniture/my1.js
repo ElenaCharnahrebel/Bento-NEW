@@ -9,7 +9,7 @@
 		"omnitureCurrencyCode" : "NULL",
 		"omnitureSSL" : "NULL",
 		"omnitureLifecycleSessionTimeout" : "300",
-		"omnitureTrackingServer" : "NULL",
+		"omnitureTrackingServer" : "sc.mtv.com",
 		"omnitureVisitorID" : "NULL",
 		"omnitureDebugLogging" : "true",
 		"omnitureOfflineTrackingEnabled" : "true",
