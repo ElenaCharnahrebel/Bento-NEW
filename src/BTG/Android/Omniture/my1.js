@@ -1,23 +1,28 @@
+
 [
 	{
 		"audienceManagerEnabled" : "true",
 		"omnitureEnabled" : "true",
 		"omnitureSuite"   : "NULL",
-		"omnitureChannel" : "TestChannellala",
+		"omnitureChannel" : "Test Rig Channel",
 		"omnitureCharSet" : "ISO-8859-1",
-		"omnitureCurrencyCode" : "USDlala",
-		"omnitureSSL" : "true",
+		"omnitureCurrencyCode" : "USD",
+		"omnitureSSL" : "false",
 		"omnitureLifecycleSessionTimeout" : "300",
-		"omnitureTrackingServer" : "sclala.mtv.com",
-		"omnitureVisitorID" : "2lala",
+		"omnitureTrackingServer" : "sc.mtv.com",
+		"omnitureVisitorID" : "",
 		"omnitureDebugLogging" : "true",
 		"omnitureOfflineTrackingEnabled" : "true",
 		"omnitureOfflineHitLimit" : 1000,
 		"demdexEnabled" : "true",
 		"TVEEnabled" : "true",
+		"omnitureContextData" : {
+			"v.appContext1":"test1",
+			"v.appContext2":"test2", 
+			"dummyContext12":"app12",
+			"nick.game": "app1"
+		},
 		"omnitureTimetrackingEnabled" : "true",
 		"appIsCoppaCompliant" : "false"
-    	}
+	}
 ]
-
-
