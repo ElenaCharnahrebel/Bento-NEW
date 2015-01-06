@@ -4,7 +4,7 @@
 	"doubleclickAdSize":"300x50",
 	"doubleclickIsDfp":false,
 	"doubleclickSlotNumber":2,
-	"doubleClickStaticAdIsCoppaCompliant":false,
+	"doubleClickStaticAdIsCoppaCompliant":true,
     "doubleClickAdIndicatorVisible":true,
     "doubleClickUseBumper":true,
 	"doubleclickDfpData":
