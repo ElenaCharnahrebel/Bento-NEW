@@ -1,35 +1,14 @@
 [
-{
-	"doubleclickKeyValues":"",
-	"doubleclickAdSize":"728x90",
-	"doubleclickIsDfp":false,
-	"doubleclickSlotNumber":2,
-	"doubleClickStaticAdIsCoppaCompliant":true,
-    "doubleClickAdIndicatorVisible":false,
-    "doubleClickUseBumper":true,
-	"doubleclickDfpData":
-{
-    "metadata": {
-        "property": "mtv",
-        "hub": "shows",
-        "franchise": "Teen Mom 2",
-        "section": "full-episodes",
-        "title": "A Teen Mom Gets Pregnant.",
-        "is_main": true,
-        "season": 2,
-        "episode": "202"
-    },
-    "mappings": {
-        "ad-unit": {
-            "1": "@property"
-        },
-        "key-values": {
-            "sea": "@season",
-            "ep": "@episode",
-            "foo": "bar"
-        }
-    }
-
-}
-}
+	{
+		"omnitureEnabled": true,
+		"omnitureSuite:" : "viarnd",
+		"omnitureTrackingServer" : "sc.mtv.com",
+		"doubleclickEnabled":true,
+		"doubleClickStaticAdAppId":"android_test_app",
+		"doubleclickUseExternalBrowser":false,
+		"doubleClickStaticAdIsCoppaCompliant":true,
+		"doubleClickAdIndicatorVisible":false,
+		"doubleClickUseBumper":true,
+		"audienceManagerEnabled":false
+	}
 ]
